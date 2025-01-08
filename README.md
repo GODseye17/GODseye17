@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GODseye17
+- 👋 Hi, I’m @GODseye17/ Yash Shankaram
 - 👀 I’m interested in Software development,web development
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
