@@ -1,45 +1,50 @@
 # 👋 Hi, I'm Yash Shankaram (@GODseye17)
 
-🚀 Software & Web Developer | 💡 Tech Explorer | 📍 India
+🚀 Software & Web Developer | 💡 Tech Explorer | 📍 India  
+🌐 Portfolio: [portfolio-3js-fawn.vercel.app](https://portfolio-3js-fawn.vercel.app)
 
 ---
 
 ## 🧠 About Me
 
-- 💻 Passionate about **software engineering** and **web development**
-- 📚 Currently learning **Data Structures & Algorithms**
-- 🤝 Looking to collaborate on **AI tools, DevTools, research apps**
-- 🌐 Reach me on [Instagram](https://instagram.com/yash_17.8) or [LinkedIn](https://www.linkedin.com/in/yash-shankaram-035426237/)
+- 💻 I love building things with code — especially web apps and smart tools
+- 📚 Currently sharpening my skills in **Data Structures & Algorithms**
+- 🧪 Interested in **AI/ML**, **DevTools**, and **research-based platforms**
+- 🤝 Open to collaborations on cool, impactful projects
+- 📫 Reach me on [Instagram](https://instagram.com/yash_17.8) or [LinkedIn](https://www.linkedin.com/in/yash-shankaram-035426237/)
 
----
 ---
 
 ## 🧰 Tech & Tools I Use
 
-- **Frontend**: React, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, SCSS, Vite
-- **Backend**: Node.js, Express, FastAPI, Python
-- **Databases**: MongoDB, PostgreSQL, Firebase
-- **AI & ML Tools**: LangChain, FAISS, Retrieval-Augmented Generation (RAG)
-- **Design & Dev Tools**: Figma, Git, GitHub, VS Code, Postman
-- **Deployment & Cloud**: Vercel, AWS
+- **Frontend**: React, Next.js, JavaScript, TypeScript, HTML, CSS, SCSS, Tailwind CSS, Vite  
+- **Backend**: Node.js, Express, FastAPI, Python  
+- **Databases**: MongoDB, PostgreSQL, Firebase  
+- **AI/ML Tools**: LangChain, FAISS, Retrieval-Augmented Generation (RAG)  
+- **Dev & Design Tools**: Git, GitHub, VS Code, Postman, Figma  
+- **Deployment**: Vercel, AWS
 
 ---
 
-## 🧪 Projects I'm Working On
+## 🧪 Project Spotlight
 
-- 🧠 **Vivum.app**: A research assistant that gives summaries and citations from PubMed and Scopus — kind of like ChatGPT but for researchers.
-- 🎓 **CampusHive**: A platform for college students to manage events, join clubs, access study material, and connect with each other.
-- 🏭 Helping build traceability systems with automation using tools and tech for real companies.
-- 🤖 Making smart AI tools that combine real research with powerful tech like LangChain and FAISS.
+### 🌟 Vivum.app — Real-Time Research Assistant
+
+Vivum is a platform that helps researchers summarize and explore scientific literature from **PubMed** and **Scopus**, using natural language processing and AI.  
+It’s like **ChatGPT**, but for academic research — fast, credible, and citation-rich.
 
 ---
 
 ## 🎯 A Few Fun Things About Me
 
-- 🎨 I enjoy designing in Figma and building beautiful UIs with React and Tailwind CSS.
-- ✍️ I write in my free time — sometimes it's about tech, sometimes it's just fun stories.
-- ☕ Coding, coffee, and curiosity keep me going!
+- 🎨 I enjoy designing interfaces in Figma and building them using React + Tailwind  
+- ✍️ I like writing — from technical blogs to creative fiction  
+- ☕ I code best with a cup of coffee and a new idea to chase
 
 ---
 
+## 📊 GitHub Highlights
+
+- 🔧 **132+ commits** in June 2025 alone    
+- 💡 **411+ contributions** in the last year — growing fast!
 
