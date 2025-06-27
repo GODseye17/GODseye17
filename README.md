@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yash Shankaram (@GODseye17)
 
 🚀 Software & Web Developer | 💡 Tech Explorer | 📍 India  
-🌐 Portfolio: [portfolio-3js-fawn.vercel.app](https://portfolio-3js-fawn.vercel.app)
+🌐 Portfolio: [portfolio-3js-fawn.vercel.app](https://portfolio-3js-fawn.vercel.app) (Experience this on your PC)
 
 ---
 
